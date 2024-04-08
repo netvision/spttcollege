@@ -1,5 +1,5 @@
 <script setup>
-import logo from './assets/sjie-logo.jpg'
+import logo from './assets/sptt-logo.jpg'
 
 </script>
 <template>
