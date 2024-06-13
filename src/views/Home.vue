@@ -1,5 +1,5 @@
 <script setup>
-import photo from '../assets/college-photo.jpg'
+import photo from '../assets/building.jpg'
 </script>
 
 <template>

@@ -8,7 +8,7 @@
 </template>
 <script setup>
 import ncte from '../assets/ncte.jpg'
-import extention from '../assets/dce.jpg'
+import extention from '../assets/dce.pdf'
 import pdf from '../assets/pdf17.svg'
 
 </script>
